@@ -9,7 +9,9 @@ _(approx. 2-3 pages)_
 ### Domain Background
 _(approx. 1-2 paragraphs)_
 
-One of the most active areas in astronomy is the discovery of exoplanets (planets outside our solar system), it was not until the mid 90's that it was demostrated that there exists another planets orbiting another stars. From all techniques used by astronomers to discover exoplanets, the transit method is the one that have delivered most results. The transit method consist in observing the light from a star for long periods of time and measuring very small changes in the intensity of its light. Periodic changes in the intensity the the light can suggest the existence of a planet orbiting a star, as the planet dims the light of the star when it pases between the star and the telescope observing that star.
+One of the most active areas in astronomy is the discovery of exoplanets (planets outside our solar system), it was not until the mid 90's that it was demostrated that there exists another planets orbiting another stars. From all techniques used by astronomers to discover exoplanets, the transit method is the one that have delivered most results. The transit method consist in observing the light from a star for long periods of time and measuring very small changes in the intensity of its light. Periodic changes in the intensity of the star's light can suggest the existence of a planet orbiting a star, as the planet dims the light of the star when it pases between the star and the telescope observing that star.
+
+This task can produce large amounts of information from which astronomers will look for specific features in the data to decide if a planet has a planet orbiting arount it. This is a task suitable for a Supervised Learning project to build a classification model to identify planets in a start by using the transit method.
 
 ### Problem Statement
 _(approx. 1 paragraph)_
