@@ -11,12 +11,12 @@ _(approx. 1-2 paragraphs)_
 
 One of the most active areas in astronomy is the discovery of exoplanets (planets outside our solar system), it was not until the mid 90's that it was demostrated that there exists another planets orbiting another stars. From all techniques used by astronomers to discover exoplanets, the transit method is the one that have delivered most results. The transit method consist in observing the light from a star for long periods of time and measuring very small changes in the intensity of its light. Periodic changes in the intensity of the star's light can suggest the existence of a planet orbiting a star, as the planet dims the light of the star when it pases between the star and the telescope observing that star.
 
-This task can produce large amounts of information from which astronomers will look for specific features in the data to decide if a planet has a planet orbiting arount it. This is a task suitable for a Supervised Learning project to build a classification model to identify planets in a start by using the transit method.
+Knowing about another planetary systems help astronomers to test their theories about how planetary systems are form and could potentially help us to find out if there another planets similar to ours and with that, increasing the posibilities of finding life in other places on our own galaxy.
 
 ### Problem Statement
 _(approx. 1 paragraph)_
 
-In this section, clearly describe the problem that is to be solved. The problem described should be well defined and should have at least one relevant potential solution. Additionally, describe the problem thoroughly such that it is clear that the problem is quantifiable (the problem can be expressed in mathematical or logical terms) , measurable (the problem can be measured by some metric and clearly observed), and replicable (the problem can be reproduced and occurs more than once).
+Discovering exoplanets can produce large amounts of information from which astronomers will look for specific features in the data to decide if a planet has a planet orbiting arount it. This requires statistics aproachs to make sense of the data an make a suitable project for a Supervised Learning project to build a classification model to identify planets in a start by using the transit method.
 
 ### Datasets and Inputs
 _(approx. 2-3 paragraphs)_
