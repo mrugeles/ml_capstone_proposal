@@ -1,7 +1,7 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Proposal
 Mario Rugeles  
-October 10, 2018
+October, 2018
 
 ## Proposal
 _(approx. 2-3 pages)_
@@ -9,14 +9,16 @@ _(approx. 2-3 pages)_
 ### Domain Background
 _(approx. 1-2 paragraphs)_
 
-One of the most active areas in astronomy is the discovery of exoplanets (planets outside our solar system), it was not until the mid 90's that it was demostrated that there exists another planets orbiting another stars. From all techniques used by astronomers to discover exoplanets, the transit method is the one that have delivered most results. The transit method consist in observing the light from a star for long periods of time and measuring very small changes in the intensity of its light. Periodic changes in the intensity of the star's light can suggest the existence of a planet orbiting a star, as the planet dims the light of the star when it pases between the star and the telescope observing that star.
+The "right of request"  is a legal mechanism  included in the Colombian Constitution of 1991 designed to allow efficient comunication between a citizen and the Goverment. This mechanism is one of the most fundamental democratic tools in Colombia as it allow all citizens, but most importanlty, the most vulnerable to ensure the Goverment is fulfilling his obligations with the people. Once a "right of request" is required by a citizen, the goverement has from 10 to 30 days to resolve the case.
 
-Knowing about another planetary systems help astronomers to test their theories about how planetary systems are form and could potentially help us to find out if there another planets similar to ours and with that, increasing the posibilities of finding life in other places on our own galaxy.
+This in practice, means that the Goverment needs to ensure it has the procedures and infrastructure to resolve a right of request as soon as posible.
 
 ### Problem Statement
 _(approx. 1 paragraph)_
 
-Discovering exoplanets can produce large amounts of information from which astronomers will look for specific features in the data to decide if a planet has a planet orbiting arount it. This requires statistics aproachs to make sense of the data an make a suitable project for a Supervised Learning project to build a classification model to identify planets in a start by using the transit method.
+One of the basics rights of every citizen is the access to the health care system. Although Colombia faces big challenges to ensure access to the health care system for everyone, it's recognized as one of the best in LATAM (* refereces). The Goverment of Colombia has been creating online resources to allow citizens to raise complaints or ask for information in all ministeries and public entities, and it's expected that the volumen of "right of request" will increase as more citizens has access to the internet. The Ministry of Health receives all kinds of right of request and must find a way to decide which cases have more priority as many of these cases are about citizens with life at risk.
+
+Deciding when a person's life is at risk may depend on both technical and legal grounds, and it require experts in the field (medicine and law) to make the right assesment. But the volumen of cases can eventually exceed experts's capacity to respond quickly with the right desition. 
 
 ### Datasets and Inputs
 _(approx. 2-3 paragraphs)_
