@@ -38,11 +38,11 @@ The model must have a hight recall metrics because it needs to avoid false negat
 ### Project Design
 
 #### Data preprocessing
-The first part of the project will be to unify the features from the datasets, all datasets from 2013 to 2017 have pretty much the same features, but every year a few ones may be added or removed, so it's required to ensure that all datasets have the same features. The second part is that the datasets have mostly categorical features, that implies high dimensionality for categories with high cardinality, so supervised ratio and weight of evidence should be considered in every case, some utility methods to analyse columns datasets for category features may be helpful in this step. Once every categorycal fearture has been processed with one of the strategies (one hot encoding, supervised ratio or weight of evidence), a value normalization will be applied to the dataset.
+The first part of the project will be to unify the features from the datasets, all datasets from 2013 to 2017 have pretty much the same features, but every year a few ones may be added or removed, so it's required to ensure that all datasets have the same features. The second part is that the datasets have mostly categorical features, that implies high dimensionality for categories with high cardinality, so supervised ratio and weight of evidence should be considered in every case, some utility methods to analyse columns datasets for category features may be helpful in this step. Once every categorical feature has been processed with one of the strategies (one hot encoding, supervised ratio or weight of evidence), a value normalization will be applied to the dataset.
 
 #### Data analysis
 
-De second part is about finding anomalies in the data, is there noise in the dataset?, it has skewed features?, in every case appropiate procesing should be applied.
+The second part is about finding anomalies in the data, is there noise in the dataset?, it has skewed features?, in every case appropiate procesing should be applied.
 
 The dataset has about 50 features, so dimensionality reduction needs to be applied. PCA will be used in this step.
 
