@@ -35,7 +35,7 @@ The final dataset will have around 50 features, most of them categorical, some o
 
 The dataset has around 2 million of records, so it provides a quite large sample for a model to learn.
 
-![features](http://mrugeles.github.com/images/capstone/features.png)
+![features](http://mrugeles.github.io/images/features.png)
 
 Features Description
 
